@@ -1,2 +1,2 @@
 # ecommerce
-Azure Data Engineering portfolio using Databricks, PySpark and SQL
+Desined notebooks using Databricks, PySpark and SQL
