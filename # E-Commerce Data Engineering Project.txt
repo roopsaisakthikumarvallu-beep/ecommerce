@@ -1,0 +1,24 @@
+# E-Commerce Data Engineering Project
+
+This repository showcases my hands-on experience in data engineering using Azure Databricks, PySpark, SQL, and Delta Lake to process and analyze historical e-commerce sales data.
+
+## Project Overview
+This project focuses on building a data processing workflow to analyze e-commerce sales data from the past few months. The data is ingested directly into Azure Databricks, processed through the Medallion Architecture, and transformed into structured datasets for business analysis and reporting.
+
+## Technologies Used
+- Azure Databricks
+- PySpark
+- SQL
+- Delta Lake
+
+## Key Activities
+- Ingested historical e-commerce sales data into Azure Databricks.
+- Implemented Medallion Architecture using Bronze, Silver, and Gold layers.
+- Cleaned and transformed data by handling null values and duplicate records.
+- Performed data quality checks and validation.
+- Designed and simplified fact and dimension tables for analytical queries.
+- Created dashboards to visualize sales trends and business insights.
+- Scheduled data processing workflows to support automated execution and data refreshes.
+
+## Objective
+To develop a structured and automated data engineering workflow that transforms raw e-commerce sales data into analytics-ready datasets, enabling better understanding of sales performance, trends, and business insights through dashboards.
